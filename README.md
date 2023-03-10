@@ -1,6 +1,6 @@
 
 # Kaşılaştığım sorunlar ve çözümleri
-## MSVS C++ ile Qt VS Tools ile .prj dosyasını import edildiğinde, "identifier is undefined" uarıları alındı fakat derleyici hatasız derledi. 
+## MSVS C++ ile Qt VS Tools ile .prj dosyasını import edildiğinde, "identifier is undefined" uyarıları alındı fakat derleyici hatasız derledi. 
 Çözüm: .vs\ch06-snake\v15\ipch\ ipch dosyasını silin sonra tekrar .sln yi açın.
 
 # Mastering Qt 5 - First Edition (December 2016)
