@@ -1,6 +1,6 @@
 
 # Kaşılaştığım sorunlar ve çözümleri
-## MSVS C++ ile Qt VS Tools ile .por dosyasını import edildiğinde, "identifier is undefined" uarıları alındı fakat derleyici hatasız derledi. Çözüm: .vs\ch06-snake\v15\ipch\ ipch dosyasını silin sonra tekrar .sln yi açın.
+## MSVS C++ ile Qt VS Tools ile .prj dosyasını import edildiğinde, "identifier is undefined" uarıları alındı fakat derleyici hatasız derledi. Çözüm: .vs\ch06-snake\v15\ipch\ ipch dosyasını silin sonra tekrar .sln yi açın.
 
 # Mastering Qt 5 - First Edition (December 2016)
 This is the code repository for the book [Mastering Qt 5 - First Edition](https://www.packtpub.com/application-development/mastering-qt-5?utm_source=github&utm_medium=repository&utm_campaign=9781786467126), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
